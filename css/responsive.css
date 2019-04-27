@@ -81,7 +81,7 @@
   #navbar {
     visibility: hidden;
   }
-  #navbar nav a.menu-icon {
+  a.menu-icon {
     visibility: visible;
   }
 
