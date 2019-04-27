@@ -82,7 +82,7 @@
     visibility: hidden;
   }*/
 
-  #navbar a.menu-icon {
+  #navbar nav a.menu-icon {
     display: block;
   }
 
