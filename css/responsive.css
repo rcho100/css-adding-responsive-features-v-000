@@ -82,6 +82,7 @@
     display: none;
     float: right;
     font-size: 1.5em;
+    width: auto;
   }
 
   #navbar nav a.menu-icon {
