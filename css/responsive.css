@@ -82,10 +82,6 @@
     visibility: hidden;
   }
 
-  #navbar nav a {
-    visibility: visible;
-  }
-
   #navbar nav a.menu-icon {
     display: block;
   }
