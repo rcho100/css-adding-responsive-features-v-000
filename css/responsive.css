@@ -82,7 +82,7 @@
     visibility: hidden;
   }*/
 
-  clearfix.a.menu-icon {
+  #navbar a.menu-icon {
     display: block;
   }
 
