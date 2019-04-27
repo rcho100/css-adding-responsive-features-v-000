@@ -82,6 +82,7 @@
     visibility: hidden;
   }
   a.menu-icon {
+    display: block;
   }
 
   #logo h2 {
