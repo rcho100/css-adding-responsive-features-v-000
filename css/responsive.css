@@ -78,11 +78,11 @@
 }
 /****Bonus****/
 @media only screen and (max-width: 700px) {
-  #navbar {
+  /*#navbar {
     visibility: hidden;
-  }
+  }*/
 
-  #navbar nav a.menu-icon {
+  #navbar a.menu-icon {
     display: block;
   }
 
